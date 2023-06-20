@@ -28,7 +28,10 @@ C++
  # Concepts Used
 
 Object-Oriented Programming
-Arrays
+Arrays-Linear Search and Binary Search
+
+  
+  
 # Authors
 
 Eyitomioluwa Okanlawon
